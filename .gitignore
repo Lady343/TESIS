@@ -1,0 +1,15 @@
+node_modules/
+dist/
+.env
+.env.local
+*.local
+api/__pycache__/
+api/*.pyc
+*.pkl
+*.xlsx
+__pycache__/
+
+# Claude
+.claude/
+CLAUDE.md
+init_commits.sh
