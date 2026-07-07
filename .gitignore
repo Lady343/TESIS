@@ -5,8 +5,7 @@ dist/
 *.local
 api/__pycache__/
 api/*.pyc
-*.pkl
-*.xlsx
+
 __pycache__/
 
 # Claude
